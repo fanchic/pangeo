@@ -8,6 +8,7 @@ dependencies:
   - cartopy
   - numpy
   - pandas
+  - oceans
   - distributed
   - dask-kubernetes
   - intake::intake-xarray
