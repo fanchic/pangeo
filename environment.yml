@@ -9,6 +9,7 @@ dependencies:
   - numpy
   - pandas
   - oceans
+  - xesmf
   - eofs
   - scipy
   - distributed
