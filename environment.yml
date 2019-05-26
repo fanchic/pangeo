@@ -9,6 +9,8 @@ dependencies:
   - numpy
   - pandas
   - oceans
+  - eofs
+  - scipy
   - distributed
   - dask-kubernetes
   - intake::intake-xarray
