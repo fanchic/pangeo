@@ -5,6 +5,9 @@ dependencies:
   - python=3.6
   - xarray
   - dask
+  - cartopy
+  - numpy
+  - pandas
   - distributed
   - dask-kubernetes
   - intake::intake-xarray
